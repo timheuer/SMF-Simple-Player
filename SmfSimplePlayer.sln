@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmfSimplePlayer", "SmfSimplePlayer\SmfSimplePlayer.csproj", "{3AE67CED-746E-4EEE-9E43-99B73A5F35E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmfSimplePlayer.Web", "SmfSimplePlayer.Web\SmfSimplePlayer.Web.csproj", "{8A0BE711-76B5-498D-8F72-3423D850B7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE67CED-746E-4EEE-9E43-99B73A5F35E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE67CED-746E-4EEE-9E43-99B73A5F35E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE67CED-746E-4EEE-9E43-99B73A5F35E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE67CED-746E-4EEE-9E43-99B73A5F35E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0BE711-76B5-498D-8F72-3423D850B7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0BE711-76B5-498D-8F72-3423D850B7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0BE711-76B5-498D-8F72-3423D850B7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0BE711-76B5-498D-8F72-3423D850B7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
